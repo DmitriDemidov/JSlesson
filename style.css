@@ -1,0 +1,9 @@
+.wrap {
+    align-items: center;
+    justify-content: start;
+}
+
+.wrap input {
+    height: 20px;
+    margin-left: 8px;
+}
